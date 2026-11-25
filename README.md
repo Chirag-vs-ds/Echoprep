@@ -1,4 +1,4 @@
-# Interview Copilot
+# Echoprep
 
 A Windows desktop app that turns system audio into streamed practice-interview answers in an always-on-top Tkinter overlay, with optional resume context.
 
