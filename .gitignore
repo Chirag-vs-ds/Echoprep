@@ -1,0 +1,21 @@
+# Python environments and generated files
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+settings.json
+*.wav
+*.log
+.vscode/
+.idea/
+dist/
+build/
+*.spec
+.pytest_cache/
+*.egg-info/
+# Keep personal documents outside the repository or in this ignored folder.
+private/
+resumes/
